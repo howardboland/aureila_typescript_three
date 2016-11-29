@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+#dynamicBox {
+  border:1px solid #ccc;
+  text-align: center;
+}
+#dynamicBox button {
+  margin: 10px 0px;
+}
+.scrollable {
+  width: 200px;
+  height: 90px;
+  overflow: auto;
+  display: block;
+  text-align: left;
+
+}
+.container {
+  width: 100%;
+  height: 720px;
+}

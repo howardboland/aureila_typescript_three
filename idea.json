@@ -1,0 +1,17 @@
+
+{
+  "name": "three",
+  "path": "../bower_components/threejs/build",
+  "main": "three.min.js"
+},
+{
+  "name": "three-css3drenderer",
+  "path": "../bower_components/threejs/examples/js/renderers",
+  "main": "CSS3DRenderer.js"
+}
+,
+{
+  "name": "greensock",
+  "path": "../node_modules/gsap/src/minified/",
+  "main": "TweenMax.min.js"
+}

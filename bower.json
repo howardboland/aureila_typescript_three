@@ -1,0 +1,18 @@
+{
+  "name": "nlythe",
+  "version": "0.0.0",
+  "authors": [
+    "Howard Boland <howard.boland@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*"
+  }
+}
